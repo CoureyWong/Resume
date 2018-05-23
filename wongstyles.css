@@ -1,3 +1,12 @@
 .wongcrest {
-  width:5%;
+  width:10%;
+}
+.jumbotron {
+  height: 60vh;
+  background:linear-gradient(#052ec1, transparent),
+              linear-gradient(180deg, transparent, #052ec1),
+  url('img/wong smile.jpg')no-repeat center/cover;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color:#fff;
 }
