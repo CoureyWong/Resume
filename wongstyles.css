@@ -5,7 +5,7 @@
   height: 60vh;
   background:linear-gradient(#052ec1, transparent),
               linear-gradient(180deg, transparent, #052ec1),
-  url('img/wong smile.jpg')no-repeat center/cover;
+  url('img/Wong smile.jpg')no-repeat center/cover;
 }
 .navbar-dark .navbar-nav .nav-link {
   color:#fff;
